@@ -1,0 +1,11 @@
+matplotlib~=3.4.3
+numpy~=1.21.2
+cycler~=0.10.0
+networkx~=2.6.3
+pm4py~=2.2.20.1
+cvxopt
+pm4pycvxopt
+tqdm~=4.62.3
+ortools
+seaborn
+pandas

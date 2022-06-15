@@ -1,0 +1,10 @@
+.idea
+debug.log
+./.idea
+__pycache__
+.vscode/
+*.xes
+.venv
+outputs/
+pm4py/
+.pytest_cache
