@@ -17,4 +17,4 @@ ENV INFIX_TYPE "infix"
 
 COPY . .
 
-CMD [ "python", "./infix_alignments/experiments/infix_alignments/experiments.py" ]
+CMD [ "python", "./prefix_infix_postfix_alignments/experiments/infix_alignments/experiments.py" ]
